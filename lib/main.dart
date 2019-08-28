@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 //1. You can add some random chars below, then commit and push.
-//Here...anyway
+//Here...anyway something
 //You can use cmd+k to commit current changes and use cmd+opt+k then alt to confirm trailing dialogs.
 //then use /2\. to search the next practice
 class MyApp extends StatelessWidget {
