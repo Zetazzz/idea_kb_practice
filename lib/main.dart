@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
 
+//1. You can add some random chars below, then commit and push.
+//Here...
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
