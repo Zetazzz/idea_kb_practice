@@ -23,6 +23,9 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
+      // 6. import the new file at the beginning of the file by gg
+      //  replace the new MyHomePage class for home
+      //  then we are done. Good Job.
       home: MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
@@ -126,4 +129,19 @@ class _MyHomePageState extends State<MyHomePage> {
 //then type 'dir' and select Directory
 //then add a new file in the pages folder by ctrl+enter
 //select file to create a new file
+//and don't forget to get back here after you're in the new file by ctrl+o
 
+//4. using v mode to select content below
+//  then using y to copy, p for paste to new file.
+//  you can jump to the new file by cmd+shift+o
+
+//Copy below:
+//5. To build a main page class on your own. WITHOUT USING MOUSE.
+//import
+
+//create class
+//after create class, you can use f2 to focus on error,
+//then opt+shift+enter to complete methods
+
+//then jump back to the main.dart
+//search MyHomePage by /
