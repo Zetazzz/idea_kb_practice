@@ -28,6 +28,11 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//2. Come here and comment bullshits below.
+//Don't commit anymore, we don't want to ruin all the practice.
+//to use v to start select lines
+//to use shift+g go to the end of the file
+//then use cmd+/ to comment lines
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
@@ -112,3 +117,9 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+//well done. using ctrl+o go back to where you were,
+//and try ctrl+i go back here if you want
+
+//3. It's time to add a new file.
+//using cmd+1 switch to project view
+//add a new folder in lib named pages
