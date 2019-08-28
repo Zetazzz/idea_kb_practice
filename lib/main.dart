@@ -122,4 +122,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
 //3. It's time to add a new file.
 //using cmd+1 switch to project view
-//add a new folder in lib named pages
+//add a new folder in lib named pages by ctrl+enter
+//then type 'dir' and select Directory
+//then add a new file in the pages folder by ctrl+enter
+//select file to create a new file
+
